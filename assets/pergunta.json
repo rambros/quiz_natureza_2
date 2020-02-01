@@ -1,0 +1,17 @@
+[
+    {
+        "pergunta":"O que você tenta ser quando está trabalhando?",
+        "terra":"Competitivo: tenta ganhar",
+        "agua": "Leal: tenta ser confiável",
+        "fogo": "Otimista: tenta ser positivo",
+        "ar": "Analítico: tenta entender"
+    },
+    {
+        "pergunta":"Onde você mais ajuda no trabalho?",
+        "terra":"Resultados: tenta alcançar resultados",
+        "agua": "Apoio: tenta ajudar todos",
+        "fogo": "Inspiração: tenta tornar o trabalho mais interessante",
+        "ar": "Sistemas: tenta ser eficiente"
+    }
+]
+

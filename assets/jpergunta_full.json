@@ -1,0 +1,72 @@
+[
+    {
+        "pergunta":"O que você tenta ser quando está trabalhando?",
+        "terra":"Competitivo: tenta ganhar",
+        "agua": "Leal: tenta ser confiável",
+        "fogo": "Otimista: tenta ser positivo",
+        "ar": "Analítico: tenta entender"
+    },
+    {
+        "pergunta":"Onde você mais ajuda no trabalho?",
+        "terra":"Resultados: tenta alcançar resultados",
+        "agua": "Apoio: tenta ajudar todos",
+        "fogo": "Inspiração: tenta tornar o trabalho mais interessante",
+        "ar": "Sistemas: tenta ser eficiente"
+    },
+    {
+        "pergunta":"Quando a situação exige o seu melhor, você age de que maneira?",
+        "terra":"Firmeza: agir com coragem",
+        "ar": "Precisão agir com precisão",
+        "agua": "Paciência: agir com cuidado",
+        "fogo": "Entusiasmo: agir com emoção"
+    },
+    {
+        "pergunta":"Como você se comporta em uma situação onde está sofrendo muita pressão?",
+        "terra":"Rude: Fala com força demasiada e ríspida. Prefere resolver logo",
+        "ar": "Crítico: Se prende ao que não está certo tentando entender. Prefere fazer certo",
+        "agua": "Hesitante: Fica esperando que outros acertem a situação. Prefere a harmonia",
+        "fogo": "Distraído: Perde o foco e a objetividade na situação. Prefere fazer algo mais interessante"
+    },
+    {
+        "pergunta":"O que mais te atrai em uma viagem?",
+        "terra":"Destino: o resultado quando você chegar lá",
+        "ar": "Agenda: planejar com detalhes toda a viagem",
+        "agua": "Companhia: apreciar a companhia durante toda a jornada",
+        "fogo": "Sonho: ficar imaginando as inúmeras possibilidades"
+    },
+    {
+        "pergunta":"No que você presta atenção quando conversa com alguém?",
+        "terra":"Fatos: o que é real e concreto",
+        "ar": "Lógica: o que faz sentido e está correto",
+        "agua": "Sentimentos: o que acha justo e em como a outra pessoa está",
+        "fogo": "Possibilidades: o que poderia ser melhor e diferente"
+    },
+    {
+        "pergunta":"De que maneira você se prepara para uma nova situação?",
+        "terra":"Firme: preparado para ser forte e decidido",
+        "ar": "Pensativo: preparado para planejar e cuidar dos os detalhes",
+        "agua": "Cuidadoso: preparado para ouvir os sentimentos dos outros",
+        "fogo": "Entusiasmado: preparado para se reunir e influenciar outros"
+    },
+    {
+        "pergunta":"No que você presta atenção quando inicia um trabalho?",
+        "terra":"Metas e resultados",
+        "ar": "Qualidade para um trabalho bem feito",
+        "agua": "Harmonia e acordos entre as pessoas",
+        "fogo": "Ideias que inspirem todos"
+    },
+    {
+        "pergunta":"Qual sua principal característica no trabalho?",
+        "terra":"Decidido: toma decisões com facilidade",
+        "ar": "Organizado: mantem as coisas arrumadas e organizadas",
+        "agua": "Atencioso: se preocupa com os sentimentos dos outros",
+        "fogo": "Espontâneo: tenta algo não planejado"
+    },
+    {
+        "pergunta":"O que você faz quando compra algo novo? Um novo celular?",
+        "terra":"Usa. Tira da caixa e sai usando",
+        "ar": "Verifica. Le o manual e tenta entender como funciona",
+        "agua": "Compartilha. Entrega para alguém te explicar como funciona",
+        "fogo": "Brinca. Se diverte com as possibilidades do aparelho"
+    }
+]
