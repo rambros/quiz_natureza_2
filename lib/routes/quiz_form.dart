@@ -6,8 +6,7 @@ import 'package:quiz_natureza_2/model/respostas_model.dart';
 
 class QuizForm extends StatefulWidget {
   ListaPerguntas listaPerguntas; // contem lista das perguntas
-  RespostasQuiz
-      respostasQuiz; //onde ficarão armazenadas as respostas dos elementos
+  RespostasQuiz  respostasQuiz; //onde ficarão armazenadas as respostas dos elementos
 
   @override
   _QuizFormState createState() => _QuizFormState();
@@ -16,9 +15,11 @@ class QuizForm extends StatefulWidget {
 }
 
 class _QuizFormState extends State<QuizForm> {
-  int i = 0;
+  //int i = 0;
+
   @override
   Widget build(BuildContext context) {
+    int i = 0;
     return Scaffold(
       appBar: AppBar(
         title: Text('Avaliação Natureza Humana'),

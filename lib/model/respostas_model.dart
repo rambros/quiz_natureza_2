@@ -1,4 +1,3 @@
-
 class Resposta {
   int respostaTerra = 0;
   int respostaFogo = 0;
@@ -8,7 +7,7 @@ class Resposta {
 
 class RespostasQuiz {
   final int size; //monta qtde respostas de acordo com numero de perguntas
-  
+
   int totalAgua = 0;
   int totalTerra = 0;
   int totalFogo = 0;
@@ -16,10 +15,17 @@ class RespostasQuiz {
 
   List<Resposta> respostas = new List();
 
-  RespostasQuiz({this.size}) { 
+  RespostasQuiz({this.size}) {
     for (int i = 0; i < size; i++) {
       respostas.add(new Resposta());
     }
+  }
+
+  void resetTotais() {
+    totalAgua = 0;
+    totalTerra = 0;
+    totalFogo = 0;
+    totalAr = 0;
   }
 
   void calculaTotais() {
@@ -60,7 +66,6 @@ class RespostasQuiz {
     return null;
   }
 }
-
 
 // class ResultadoQuiz {
 //   //Contem os resultados da Avaliação
