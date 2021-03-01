@@ -36,7 +36,7 @@ class WidgetForm extends StatelessWidget {
                 style: TextStyle(fontSize: 14),
                 textAlign: TextAlign.left,
               ),
-              RatingBar(
+              RatingBar.builder(
                 initialRating: 0,
                 minRating: 1,
                 direction: Axis.horizontal,
@@ -49,7 +49,7 @@ class WidgetForm extends StatelessWidget {
                 ),
                 onRatingUpdate: (rating) {
                   respostasQuiz.respostas[index].respostaAgua = rating.toInt();
-                },
+                }, 
               ),
               SizedBox(height: 6),
               Text(
@@ -57,7 +57,7 @@ class WidgetForm extends StatelessWidget {
                 style: TextStyle(fontSize: 14),
                 textAlign: TextAlign.left,
               ),
-              RatingBar(
+              RatingBar.builder(
                 initialRating: 0,
                 minRating: 1,
                 direction: Axis.horizontal,
@@ -79,7 +79,7 @@ class WidgetForm extends StatelessWidget {
                 style: TextStyle(fontSize: 14),
                 textAlign: TextAlign.left,
               ),
-              RatingBar(
+              RatingBar.builder(
                 initialRating: 0,
                 minRating: 1,
                 direction: Axis.horizontal,
@@ -101,7 +101,7 @@ class WidgetForm extends StatelessWidget {
                 style: TextStyle(fontSize: 14),
                 textAlign: TextAlign.left,
               ),
-              RatingBar(
+              RatingBar.builder(
                 initialRating: 0,
                 minRating: 1,
                 direction: Axis.horizontal,

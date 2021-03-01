@@ -1,0 +1,83 @@
+{
+    "elements": 
+   [{
+    "element": "terra",
+    "contexts": [
+        {
+        "context": "business",
+        "feedbacks": [
+            { "start": 1,
+              "end": 9,
+              "text": "9 - sabe o que quer"
+            },
+            { "start": 10,
+              "end": 15,
+              "text": "15 - sabe o que quer"
+            },
+            { "start": 16,
+              "end": 20,
+              "text": "20 - sabe o que quer"
+            }
+          ]
+       },
+       {
+        "context": "relationship",
+        "feedbacks": [
+            { "start": 1,
+              "end": 9,
+              "text": "9 - sabe o que quer"
+            },
+            { "start": 10,
+              "end": 15,
+              "text": "sabe o que quer"
+            },
+            { "start": 16,
+              "end": 20,
+              "text": "sabe o que quer"
+            }
+          ]
+       }
+    ]
+  },
+  {
+    "element": "agua",
+    "contexts": [
+        {
+        "context": "business",
+        "feedbacks": [
+            { "start": 1,
+              "end": 4,
+              "text": "sabe o que quer"
+            },
+            { "start": 5,
+              "end": 9,
+              "text": "trabalho em equipe excelente"
+            },
+            { "start": 10,
+              "end": 13,
+              "text": "Consegue se destacar"
+            },
+            { "start": 14,
+              "end": 16,
+              "text": "Excelente líder"
+            }
+          ]
+       },
+       {
+        "context": "relationship",
+        "feedbacks": [
+            { "start": 10,
+              "end": 15,
+              "text": "sabe o que quer"
+            },
+            { "start": 16,
+              "end": 20,
+              "text": "sabe o que quer"
+            }
+          ]
+       }
+    ]
+  }
+  ]
+  
+  }

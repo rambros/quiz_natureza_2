@@ -1,0 +1,43 @@
+{
+    "high_profiles": 
+    [
+     {
+         "profile_id":"as2",
+         "profile_name": "terra puro",
+         "first_elements": ["terra.A","terra.MA"],
+         "other_elements": ["fogo.MA", "Ar.M"],
+         "generic_feedback": "o Terra é",
+         "contexts":[
+             {
+                 "context_name":"Negócios",
+                 "context_id":"we2",
+                 "feedback": "O Terra puro é determinado..."
+             },
+             {
+                 "context_name":"Relacionamentos",
+                 "context_id":"we2",
+                 "feedback": "O Terra puro é dureza..."
+             }
+         ]
+     },
+      {
+         "profile_id":"abf2",
+         "profile_name": "agua puro",
+         "first_elements": ["agua.A","agua.MA"],
+         "other_elements": ["fogo.MA", "Ar.M"],
+         "generic_feedback": "o Água é",
+         "contexts":[
+             {
+                 "context_name":"Negócios",
+                 "context_id":"we2",
+                 "feedback": "O Água puro é calmo..."
+             },
+             {
+                 "context_name":"Relacionamentos",
+                 "context_id":"we2",
+                 "feedback": "O Água puro é moleza..."
+             }
+         ]
+     }
+     ]
+    }
